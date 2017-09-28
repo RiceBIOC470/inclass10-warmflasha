@@ -1,5 +1,5 @@
 %In this directory, you will find some example data, which is a 300x8
-%array stored in a .mat file. Image these are measurements for 300 genes are 8 different time
+%array stored in a .mat file. Imagine these are measurements for 300 genes are 8 different time
 %points
 
 %1. Use matlab to perform pca on this data, getting the transformation
